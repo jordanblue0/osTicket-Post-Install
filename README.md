@@ -165,9 +165,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 <br />
-<p>
-  This now fully configures our osTicket. I hope this guide was able to help clarify and assist you in setting up your osTicket. It is recommended to practice triaging and solving tickets.
-</p>
-<p>
-  This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and it's customers when it comes to handling issues regarding a product or service they provide.
-</p>
+<h3 align="center"> You have completed the Part 2 of 3 osTicket Install/Configuration/Ticket-Creation tutorial series.
+- Click [here](https://github) to move on to Part 3.
