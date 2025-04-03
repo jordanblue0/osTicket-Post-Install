@@ -166,4 +166,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 <br />
 <h3 align="center"> You have completed the Part 2 of 3 osTicket Install/Configuration/Ticket-Creation tutorial series.
-- Click [here](https://github) to move on to Part 3.
+
+
+Click [here](https://github.com/jordanblue0/osTicket-Ticket-Lifecycle) to move on to Part 3.
